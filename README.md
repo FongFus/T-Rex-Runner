@@ -106,7 +106,6 @@ Student ID: 2251050057
 Course: GUI Programming  
 University: Ho Chi Minh City Open University  
 
----
 
 ##  Acknowledgments
 
