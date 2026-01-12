@@ -3,7 +3,6 @@
 A classic side-scrolling endless runner game built with Windows Forms (C#), inspired by the hidden Chrome Dinosaur Game.  
 This project includes user authentication, difficulty levels, score tracking, and a high-score leaderboard.
 
----
 
 ##  Features
 
@@ -14,7 +13,6 @@ This project includes user authentication, difficulty levels, score tracking, an
 - Password Management: Allows users to change passwords with validation  
 - Responsive UI: Interactive buttons with hover effects and clear navigation  
 
----
 
 ##  Prerequisites
 
@@ -22,7 +20,6 @@ This project includes user authentication, difficulty levels, score tracking, an
 - IDE: Visual Studio 2019 or later (recommended)  
 - OS: Windows 10 / 11  
 
----
 
 ##  Installation
 
@@ -43,7 +40,6 @@ Press `Ctrl + Shift + B` or use the **Build** menu.
 
 Press `F5` to start debugging.
 
----
 
 ##  Quick Start
 
@@ -67,7 +63,6 @@ Press `F5` to start debugging.
 
 If you achieve a high score, you will be prompted to enter your name for the leaderboard.
 
----
 
 ##  Project Structure
 
@@ -89,7 +84,6 @@ If you achieve a high score, you will be prompted to enter your name for the lea
     │
     └── Resources/                   # Game images (T-Rex, obstacles, etc.)
 
----
 
 ##  Game Logic Overview
 
@@ -99,13 +93,11 @@ If you achieve a high score, you will be prompted to enter your name for the lea
 - **Collision Detection**: Uses `Bounds.IntersectsWith()` for hit detection  
 - **Leaderboard**: Stores only the top 3 scores, sorted in descending order  
 
----
 
 ##  License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
 
 ##  Author
 
