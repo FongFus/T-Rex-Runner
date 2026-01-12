@@ -94,9 +94,6 @@ If you achieve a high score, you will be prompted to enter your name for the lea
 - **Leaderboard**: Stores only the top 3 scores, sorted in descending order  
 
 
-##  License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 
 ##  Author
